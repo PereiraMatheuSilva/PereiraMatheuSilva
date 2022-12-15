@@ -1,4 +1,3 @@
-## Oiee!! eu sou o Matheus Pereira, estudande de programação e tecnologia.
 
 <div align="center">
   	<a href="https://github.com/PereiraMatheuSilva">
